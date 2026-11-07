@@ -51,7 +51,7 @@ Certifique-se de ter o Python 3 e a biblioteca pyautogui instalados no seu compu
 
 ### 1. Clonar o repositório
 ```
-git clone [https://github.com/rafaelxf-dev/Campo-Minado.git](https://github.com/rafaelxf-dev/Campo-Minado.git)
+git clone https://github.com/rafaelxf-dev/Campo-Minado.git
 cd campo-minado
 ```
 
